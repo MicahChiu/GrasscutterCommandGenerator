@@ -119,3 +119,4 @@ Added [AttackModifier](https://github.com/NotThorny/AttackModifier), [AttackInfu
 ![Remote Screenshort](Doc/Screenshots-en/12-Remote.png)
 
 ![Quest Screenshort](Doc/Screenshots-en/13-Quest.png)
+1
